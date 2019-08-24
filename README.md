@@ -39,3 +39,6 @@ Here is the schema and explanation of each variable in the files:
 -	Determine which demographic group will likely to purchase with and without advertisement 
 -	Determine which offer type is most impactful
 -	Build a binary classifier to predict whether a customer will complete the offer 
+
+## Evaluation Metrics:
+Validation accuracy, precision score, recall score and F1 score will be used to evaluate the model performance
