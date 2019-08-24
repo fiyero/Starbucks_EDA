@@ -40,5 +40,11 @@ Here is the schema and explanation of each variable in the files:
 -	Determine which offer type is most impactful
 -	Build a binary classifier to predict whether a customer will complete the offer 
 
-## Evaluation Metrics:
+## Evaluation Metrics
 Validation accuracy, precision score, recall score and F1 score will be used to evaluate the model performance
+
+## Package required
+- pandas
+- seaborn
+- sklearn
+- Keras
